@@ -1,0 +1,5 @@
+- nos projetos os componentes ficam na pasta "components" que precisa ser criada por nos. 
+- Nomeclatura com CamelCase
+- no arquivo ciramos uma função e dentro dela vai toda a codificação do componente (lógica e template). 
+-  É necessário exportar essa função para que o componente seja reutilizavél. 
+

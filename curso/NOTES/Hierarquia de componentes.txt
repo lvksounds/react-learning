@@ -1,0 +1,2 @@
+- Componentes que criamos podem ser reutilizados em varios componentes; 
+- componentes podem formar uma hierarquia, sendo importados uns dentro dos outros;
