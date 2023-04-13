@@ -1,0 +1,22 @@
+O que são Hooks? 
+
+- Recursos do reacts que tem diversas funções; 
+
+- Como: guardar e alterar o estado de algum dado da nossa aplicação; 
+
+- Todos os jookes começam com "use", por exemplo: useState; 
+
+- Podemos criar os nossos hooks, isso é chamado de "custom hook";
+
+- Os hooks precisam ser importados; 
+
+- Geralmente são utéis em todas as aplicações. 
+
+
+useState Hook
+
+- O hook useState é um dos mais utilizados; 
+
+- Utilizamos para gerenciar o estado de algum dado, variaveis não funcionam corretamente, o componente nao renderiza; 
+
+- Para guardar o dado definimos o nome da variavel e para alterar vamos utilizar setNome, onde nome é nome do nosso dado;
