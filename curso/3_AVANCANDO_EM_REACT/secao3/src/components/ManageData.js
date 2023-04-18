@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 
 const ManageData = () => {
@@ -8,7 +9,7 @@ const ManageData = () => {
     return count;
   }
   return (
-    <>
+    <div>
       <div>
         <p>Valor: {someData}</p>
         <button
@@ -19,7 +20,7 @@ const ManageData = () => {
           Mudar variavel
         </button>
       </div>
-    </>
+    </div>
   );
 };
 

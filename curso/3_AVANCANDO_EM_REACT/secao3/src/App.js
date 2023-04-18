@@ -1,7 +1,10 @@
 import "./App.css";
+import React from "react";
 import City from "./assets/city.jpg";
+import ListRender from "./components/ListRender2";
 
 import ManageData from "./components/ManageData";
+import ConditionalRender from "./components/ConditionalRender";
 
 function App() {
   return (
@@ -19,6 +22,8 @@ function App() {
       </div>
 
       <ManageData />
+      <ListRender></ListRender>
+      <ConditionalRender />
     </div>
   );
 }
